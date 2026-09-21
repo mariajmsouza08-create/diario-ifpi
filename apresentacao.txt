@@ -3,4 +3,4 @@ Curso: Técnico em Informática - IFPI
 Turma: 3° Ano Informática
 Cidade: Parnaíba - PI
 Objetivo: Aprender Git e GitHub para trabalhar em projetos colaborativos.
-Hobby: asistir televisão
+Hobby: assistir televisão
